@@ -3,4 +3,4 @@ server:
 spring:
   data:
     mongodb:
-      uri: mongodb+srv://f4js3il:coolbuddy-125@cluster0.ljlbo.mongodb.net/products?retryWrites=true&w=majority
+      uri:
